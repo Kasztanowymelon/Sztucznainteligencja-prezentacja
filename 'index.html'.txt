@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sztuczna Inteligencja - Prezentacja</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 1em;
+      text-align: center;
+    }
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 1em;
+      background-color: #fff;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    footer {
+      background-color: #333;
+      color: #fff;
+      padding: 1em;
+      text-align: center;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Sztuczna Inteligencja</h1>
+    <p>Twoja strona prezentująca najnowsze osiągnięcia w dziedzinie sztucznej inteligencji</p>
+  </header>
+
+  <section>
+    <h2>Wprowadzenie</h2>
+    <p>Tutaj umieść wprowadzenie do tematu sztucznej inteligencji.</p>
+  </section>
+
+  <section>
+    <h2>Podstawowe Zagadnienia</h2>
+    <p>Omów podstawowe zagadnienia związane z sztuczną inteligencją.</p>
+  </section>
+
+  <section>
+    <h2>Ostatnie Osiągnięcia</h2>
+    <p>Przedstaw najnowsze osiągnięcia w dziedzinie sztucznej inteligencji.</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Twoja Strona o Sztucznej Inteligencji</p>
+  </footer>
+
+</body>
+</html>
