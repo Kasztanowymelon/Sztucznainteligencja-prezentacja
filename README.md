@@ -1,0 +1,2 @@
+# Sztucznainteligencja-prezentacja
+Szkolna prezentacja
